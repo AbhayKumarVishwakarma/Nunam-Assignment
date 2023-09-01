@@ -1,5 +1,5 @@
 # Battery Management System
-Welcome to the Battery Management System! This application provides functionality for managing batteries and their details, such as voltage, temperature, and current. It allows you to associate batteries with vehicles, add battery details, and retrieve battery data within specified time ranges.
+Welcome to the Battery Management System! This system provides functionality for managing batteries and their details, such as voltage, temperature, and current. It allows you to associate batteries with vehicles, add battery details, and retrieve battery data within specified time ranges.
 
 ## Features
 * Add a new vehicle
